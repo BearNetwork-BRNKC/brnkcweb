@@ -1,4 +1,4 @@
-import { facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star } from "../assets";
+import { facebook, github, discord, twitter, airbnb, binance, coinbase, dropbox, send, shield, star } from "../assets";
 
 export const navLinks = [
   {
@@ -10,11 +10,11 @@ export const navLinks = [
     title: "Features",
   },
   {
-    id: "product",
+    id: "wallet",
     title: "Wallet",
   },
   {
-    id: "clients",
+    id: "partners",
     title: "Partners",
   },
 ];
@@ -71,23 +71,23 @@ export const footerLinks = [
     links: [
       {
         name: "Add Mainnet",
-        link: "https://chainlist.org/chain/641230",
+        link: "https://chainlist.org/chain/641230/",
+      },
+      {
+        name: "Add Testnet",
+        link: "https://chainlist.org/chain/751230",
       },
       {
         name: "BrnkScan",
         link: "https://brnkscan.bearnetwork.net/",
       },
       {
-        name: "Create",
-        link: "https://www.hoobank.com/create/",
+        name: "Faucet",
+        link: "https://faucet.bearnetwork.net/",
       },
       {
-        name: "Explore",
-        link: "https://www.hoobank.com/explore/",
-      },
-      {
-        name: "Terms & Services",
-        link: "https://www.hoobank.com/terms-and-services/",
+        name: "WhitePaper",
+        link: "https://docs.bearnetwork.net/about/whitepaper",
       },
     ],
   },
@@ -95,24 +95,24 @@ export const footerLinks = [
     title: "Community",
     links: [
       {
-        name: "Help Center",
-        link: "https://www.hoobank.com/help-center/",
+        name: "Docs",
+        link: "https://docs.bearnetwork.net/",
       },
       {
-        name: "Partners",
-        link: "https://www.hoobank.com/partners/",
+        name: "Twitter",
+        link: "https://twitter.com/CT_BearNetwork",
       },
       {
-        name: "Suggestions",
-        link: "https://www.hoobank.com/suggestions/",
+        name: "Facebook",
+        link: "https://www.facebook.com/bearnetwork.net",
       },
       {
-        name: "Blog",
-        link: "https://www.hoobank.com/blog/",
+        name: "Discord",
+        link: "https://discord.com/invite/UQE9gwANSY",
       },
       {
-        name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
+        name: "Linkedin",
+        link: "https://www.linkedin.com/company/bearnetwork",
       },
     ],
   },
@@ -120,12 +120,24 @@ export const footerLinks = [
     title: "Partner",
     links: [
       {
-        name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
+        name: "Coininn",
+        link: "https://www.coininn.com/",
       },
       {
-        name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
+        name: "BCAService",
+        link: "https://bcaservice.io/",
+      },
+      {
+        name: "Jcard",
+        link: "https://www.jcard.io/",
+      },
+      {
+        name: "SMBSwap",
+        link: "https://smbswap.finance/swap?inputCurrency=0x55d398326f99059fF775485246999027B3197955&outputCurrency=0x2a388e6b2c757C013f7E6DCDDaf701D6c0Af14AE",
+      },
+      {
+        name: "CoinInn Wallet",
+        link: "https://www.coininn.com/coinwallet",
       },
     ],
   },
@@ -134,27 +146,27 @@ export const footerLinks = [
 export const socialMedia = [
   {
     id: "social-media-1",
-    icon: instagram,
-    link: "https://www.instagram.com/",
+    icon: github,
+    link: "https://github.com/BearNetwork-BRNKC",
   },
   {
     id: "social-media-2",
     icon: facebook,
-    link: "https://www.facebook.com/",
+    link: "https://www.facebook.com/bearnetwork.net",
   },
   {
     id: "social-media-3",
     icon: twitter,
-    link: "https://www.twitter.com/",
+    link: "https://twitter.com/CT_BearNetwork",
   },
   {
     id: "social-media-4",
-    icon: linkedin,
-    link: "https://www.linkedin.com/",
+    icon: discord,
+    link: "https://discord.com/invite/UQE9gwANSY",
   },
 ];
 
-export const clients = [
+export const partners = [
   {
     id: "client-1",
     logo: airbnb,
