@@ -1,6 +1,6 @@
 # HooBank - Modern UI/UX website using React.js & Tailwind CSS
 
-![HooBank]([https://raw.githubusercontent.com/BearNetwork-BRNKC/brnkcweb/213aafa32be455296ee61509ce5427ad2cf70ba7/public/web.png])
+![HooBank](https://raw.githubusercontent.com/BearNetwork-BRNKC/brnkcweb/213aafa32be455296ee61509ce5427ad2cf70ba7/public/web.png)
 
 
 ### Showcase your dev skills with practical experience and land the coding career of your dreams
