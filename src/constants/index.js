@@ -149,7 +149,7 @@ export const footerLinks = [
         link: "https://www.geckoterminal.com/zh-TW/bsc/pools/0xab95b6376cea10eda6f1ba44f5cc91e011151be5",
       },
       {
-        name: "coinmarketcap",
+        name: "Coinmarketcap",
         link: "https://coinmarketcap.com/dexscan/bsc/0xab95b6376cea10eda6f1ba44f5cc91e011151be5",
       },
     ],
