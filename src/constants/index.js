@@ -141,6 +141,19 @@ export const footerLinks = [
       },
     ],
   },
+   {
+    title: "Market",
+    links: [
+      {
+        name: "GeckoTerminal",
+        link: "https://www.geckoterminal.com/zh-TW/bsc/pools/0xab95b6376cea10eda6f1ba44f5cc91e011151be5",
+      },
+      {
+        name: "coinmarketcap",
+        link: "https://coinmarketcap.com/dexscan/bsc/0xab95b6376cea10eda6f1ba44f5cc91e011151be5",
+      },
+    ],
+  },
 ];
 
 export const socialMedia = [
