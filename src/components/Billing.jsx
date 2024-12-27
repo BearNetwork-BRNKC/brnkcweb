@@ -18,16 +18,17 @@ const Billing = () => (
 
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        CoinInn Wallet <br className="sm:block hidden" /> Explore The New World
+      遊戲名稱:浮鏈星域 <br className="sm:block hidden" /> Floatchain Starrealm
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Coininn Exchange is an important partner of ours, distinguished in the
-        blockchain exchange industry for its outstanding business strength and
-        excellent user experience. They are committed to providing users with a
-        secure, convenient, and transparent trading platform. We have
-        collaborated with Coininn Exchange with the aim of delivering the best
-        trading experience and services to our users.
-      </p>
+      遊戲風格 : 浮鏈星域是一款 3D RPG，帶你穿梭在充滿奇幻與科技交織的星域中。
+      在這裡，你將化身成為冒險者，透過冒險、經營、交易，解鎖區塊鏈的奧秘，塑造屬於自己的星域傳奇。
+
+      系統 : Windows
+
+      預計發行日 : 未定
+
+      預計發行平台 : Steam，Epic Games，熊網鏈官網。      </p>
 
       <div className="flex flex-row flex-wrap sm:mt-10 mt-6">
         <a
