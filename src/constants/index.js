@@ -10,8 +10,8 @@ export const navLinks = [
     title: "Features",
   },
   {
-    id: "wallet",
-    title: "Wallet",
+    id: "game",
+    title: "Game",
   },
   {
     id: "partners",
