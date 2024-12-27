@@ -1,8 +1,8 @@
-import { apple, bill, google } from "../assets";
+import { bill } from "../assets";
 import styles, { layout } from "../style";
 
 const Billing = () => (
-  <section id="wallet" className={layout.sectionReverse}>
+  <section id="game" className={layout.sectionReverse}>
     <div className={layout.sectionImgReverse}>
       <img
       src={bill}
