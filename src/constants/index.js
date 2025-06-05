@@ -120,20 +120,12 @@ export const footerLinks = [
     title: "Partner",
     links: [
       {
-        name: "Coininn",
-        link: "https://www.coininn.com/",
-      },
-      {
         name: "BCAService",
         link: "https://bcaservice.io/",
       },
       {
         name: "Jcard",
         link: "https://www.jcard.io/",
-      },
-      {
-        name: "SMBSwap",
-        link: "https://smbswap.finance/swap?inputCurrency=0x55d398326f99059fF775485246999027B3197955&outputCurrency=0x2a388e6b2c757C013f7E6DCDDaf701D6c0Af14AE",
       },
     ],
   },
@@ -187,9 +179,5 @@ export const partners = [
   {
     id: "client-3",
     logo: coinbase,
-  },
-  {
-    id: "client-4",
-    logo: dropbox,
   },
 ];
