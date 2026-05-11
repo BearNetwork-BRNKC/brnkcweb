@@ -61,7 +61,7 @@ export const stats = [
   {
     id: "stats-3",
     title: "Gas Fee",
-    value: "1 Gwei",
+    value: "0.0005 Gwei",
   },
 ];
 
