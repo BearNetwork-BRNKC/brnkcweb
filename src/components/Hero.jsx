@@ -1,6 +1,5 @@
 import styles from "../style";
 import { discount, robot } from "../assets";
-import GetStarted from "./GetStarted";
 
 const Hero = () => {
   return (
@@ -35,19 +34,22 @@ const Hero = () => {
 
         {/* Description */}
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          BearNetworkChain is a decentralized, <br />
-          Γ Physics Engine digital-physical blockchain, <br />
-          BNES + PQC + ZK + Γ + Clique + EVM <br />
-          aims to focus on project quality, enterprise, localization, <br />
-          industry, environment, education, organization, public welfare, and <br />
+          BearNetworkChain is a decentralized,
+          <br />
+          Γ Physics Engine digital-physical blockchain,
+          <br />
+          BNES + PQC + ZK + Γ + Clique + EVM
+          <br />
+          aims to focus on project quality, enterprise, localization,
+          <br />
+          industry, environment, education, organization, public welfare, and
+          <br />
           sustainable development.
         </p>
 
-        {/* Get Started Button (commonly placed here in this template) */}
-        <GetStarted />
       </div>
 
-      {/* Right Side - Image + Gradients */}
+      {/* Right Side - Robot Image + Gradients */}
       <div
         className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}
       >
@@ -57,10 +59,11 @@ const Hero = () => {
           className="w-[100%] h-[100%] relative z-[5]"
         />
 
-        {/* Gradient Effects */}
+        {/* gradient start */}
         <div className="absolute z-[0] w-[40%] h-[35%] top-0 pink__gradient" />
         <div className="absolute z-[1] w-[80%] h-[80%] rounded-full white__gradient bottom-40" />
         <div className="absolute z-[0] w-[50%] h-[50%] right-20 bottom-20 blue__gradient" />
+        {/* gradient end */}
       </div>
     </section>
   );
