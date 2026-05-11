@@ -40,11 +40,9 @@ const Hero = () => {
           <br />
           BNES + PQC + ZK + Γ + Clique + EVM
           <br />
-          aims to focus on project quality, enterprise, localization,
+          aims to focus on project quality, enterprise, localization, industry, environment, education, organization,
           <br />
-          industry, environment, education, organization, public welfare, and
-          <br />
-          sustainable development.
+          public welfare, industry, environment, education, organization, public welfare, and sustainable development.
         </p>
 
       </div>
