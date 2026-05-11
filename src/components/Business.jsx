@@ -33,7 +33,7 @@ const Business = () => (
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         In order to address the issue of high transaction fees on the Ethereum
-        network, we provide a cost-effective environment with fees as low as 1
+        network, we provide a cost-effective environment with fees as low as 0.0005
         Gwei. This means that when conducting transactions on our blockchain
         network, users will experience lower transaction fees, resulting in cost
         savings and improved usability.
