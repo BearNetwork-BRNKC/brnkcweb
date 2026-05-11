@@ -61,7 +61,7 @@ export const stats = [
   {
     id: "stats-3",
     title: "Gas Fee",
-    value: "1 Gwei",
+    value: "0.0005 Gwei",
   },
 ];
 
@@ -99,8 +99,8 @@ export const footerLinks = [
         link: "https://docs.bearnetwork.net/",
       },
       {
-        name: "Twitter",
-        link: "https://twitter.com/CT_BearNetwork",
+        name: "X (Twitter)",
+        link: "https://x.com/CT_BearNetwork",
       },
       {
         name: "Facebook",
@@ -158,7 +158,7 @@ export const socialMedia = [
   {
     id: "social-media-3",
     icon: twitter,
-    link: "https://twitter.com/CT_BearNetwork",
+    link: "https://x.com/CT_BearNetwork",
   },
   {
     id: "social-media-4",
