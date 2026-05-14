@@ -1,0 +1,12 @@
+# BearNetworkChain Official robots.txt
+# Optimized for BNES Physical Engine SEO
+
+User-agent: *
+Allow: /
+
+# Disallow sensitive or build folders
+Disallow: /node_modules/
+Disallow: /dist/
+
+# Link to the sitemap
+Sitemap: https://bearnetwork.net/sitemap.xml
