@@ -17,17 +17,10 @@ const Billing = () => (
 
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-      遊戲名稱:浮鏈星域 <br className="sm:block hidden" /> Floatchain Starrealm
+        ㄌ全球永續數位生態貢獻<br className="sm:block hidden" />Floatchain Starrealm
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-      遊戲風格 : 浮鏈星域是一款 3D RPG，帶你穿梭在充滿奇幻與科技交織的星域中。
-      在這裡，你將化身成為冒險者，透過冒險、經營、交易，解鎖區塊鏈的奧秘，塑造屬於自己的星域傳奇。
-
-      系統 : Windows，
-
-      預計發行日 : 未定，
-
-      預計發行平台 : Steam，Epic Games，熊網鏈官網。     
+        BearNetworkChain 透過與「臺中市室內設計文教協會 (Interior Design Culture Education Association, IDCEA)」的深度合作，成功將具備法律效力的「會員大會理監事改選」等民政選務系統，部署於其去中心化架構之上。
       </p>
 
 
