@@ -17,7 +17,7 @@ const Billing = () => (
 
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        ㄌ全球永續數位生態貢獻<br className="sm:block hidden" />Floatchain Starrealm
+        全球永續數位生態貢獻<br className="sm:block hidden" />Global Sustainable Digital Ecosystem Contribution Certificate
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         BearNetworkChain 透過與「臺中市室內設計文教協會 (Interior Design Culture Education Association, IDCEA)」的深度合作，成功將具備法律效力的「會員大會理監事改選」等民政選務系統，部署於其去中心化架構之上。
