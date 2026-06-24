@@ -10,8 +10,8 @@ export const navLinks = [
     title: "Features",
   },
   {
-    id: "game",
-    title: "Game",
+    id: "honors",
+    title: "Honors",
   },
   {
     id: "partners",
@@ -119,6 +119,10 @@ export const footerLinks = [
   {
     title: "Partner",
     links: [
+      {
+        name: "IDCEA",
+        link: "https://tcidcea.weebly.com/",
+      },
       {
         name: "BCAService",
         link: "https://bcaservice.io/",
