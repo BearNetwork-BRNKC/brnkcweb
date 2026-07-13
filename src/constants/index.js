@@ -1,4 +1,4 @@
-import { facebook, github, discord, twitter, airbnb, binance, coinbase, dropbox, send, shield, star } from "../assets";
+import { facebook, github, discord, twitter, send, shield, star } from "../assets";
 
 export const navLinks = [
   {
