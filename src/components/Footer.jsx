@@ -15,6 +15,15 @@ const Footer = () => (
           An ecosystem blockchain that makes payments simple, reliable, and
           secure.
         </p>
+        <p className="font-poppins font-medium text-[15px] leading-[24px] text-white mt-4">
+          BearNetwork-BRNKC
+        </p>
+        <a
+          href="mailto:bnkt@bearnetwork.net"
+          className="font-poppins font-normal text-[14px] leading-[24px] text-dimWhite hover:text-secondary transition-colors duration-200 mt-1"
+        >
+          bnkt@bearnetwork.net
+        </a>
       </div>
 
       <div className="flex-[1.5] w-full flex flex-row justify-between flex-wrap md:mt-0 mt-10">

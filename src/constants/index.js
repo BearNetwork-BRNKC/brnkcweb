@@ -14,8 +14,9 @@ export const navLinks = [
     title: "Honors",
   },
   {
-    id: "partners",
-    title: "Partners",
+    id: "blog",
+    title: "Blog",
+    link: "https://bearnetworkchain.blogspot.com/",
   },
 ];
 
@@ -171,17 +172,4 @@ export const socialMedia = [
   },
 ];
 
-export const partners = [
-  {
-    id: "client-1",
-    logo: airbnb,
-  },
-  {
-    id: "client-2",
-    logo: binance,
-  },
-  {
-    id: "client-3",
-    logo: coinbase,
-  },
-];
+export const partners = [];
