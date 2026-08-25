@@ -75,16 +75,8 @@ export const footerLinks = [
         link: "https://chainlist.org/chain/641230/",
       },
       {
-        name: "Add Testnet",
-        link: "https://chainlist.org/chain/751230",
-      },
-      {
         name: "BrnkScan",
         link: "https://brnkscan.bearnetwork.net/",
-      },
-      {
-        name: "Faucet",
-        link: "https://faucet.bearnetwork.net/",
       },
       {
         name: "WhitePaper",
@@ -126,11 +118,11 @@ export const footerLinks = [
       },
       {
         name: "BCAService",
-        link: "https://bcaservice.io/",
+        link: "https://bca.star-bit.io/tw",
       },
       {
         name: "Jcard",
-        link: "https://www.jcard.io/",
+        link: "https://www.jcard.io/tw",
       },
     ],
   },
